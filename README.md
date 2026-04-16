@@ -1,2 +1,10 @@
-# -agent-learning-journey
- My public learning journey for AI agents: docs, notes, demos, and end-to-end projects.
+ # Agent Learning Journey
+ 
+ ## Goal
+ 系统学习 Agent，并持续产出可复现 demo 和完整项目。
+ 
+ ## This Week
+ TBD
+ 
+ ## Today
+ 搭建仓库结构并提交第一篇学习日志。
