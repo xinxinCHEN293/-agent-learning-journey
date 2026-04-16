@@ -5,11 +5,11 @@
  - 链接：https://www.bilibili.com/video/BV1JV411F7Yj/
  
  ## Key Points
- 1. 
- 2. 
- 3. 
- 4. 
- 5. 
+ 1. FlowGPT可以找到各种Prompt提示词
+ 2. agent类型选择了Openai functions
+ 3. agent是Langchain中关键的部分，主要由LLM(大脑)、Memory(记忆)、skills(工具)
+ 4. browserless可以抓取网页内容(调用API)，抓取的大文本要进行切片，避免超过Token(map-reduce)
+ 5. agent初始化与配置
  6. 
  7. 
  8. 
